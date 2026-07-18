@@ -1,0 +1,8 @@
+venv
+.git
+__pycache__
+*.pyc
+.ipynb_checkpoints
+mlruns
+logs
+.dvc/cache
