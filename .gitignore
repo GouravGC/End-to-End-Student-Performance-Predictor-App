@@ -158,6 +158,12 @@ ENV/
 env.bak/
 venv.bak/
 
+#mlflow
+mlruns/
+test_mlflow.py
+__pycache__/
+*.pyc
+
 # Spyder project settings
 .spyderproject
 .spyproject
