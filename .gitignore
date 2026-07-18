@@ -158,7 +158,10 @@ ENV/
 env.bak/
 venv.bak/
 
-#mlflow
+# evidently ai report
+evidently_report.html
+
+# mlflow
 mlruns/
 test_mlflow.py
 __pycache__/
